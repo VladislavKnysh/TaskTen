@@ -1,0 +1,7 @@
+*.iml
+\classes
+\test
+\target
+\arrayList
+\.idea
+Main.java
